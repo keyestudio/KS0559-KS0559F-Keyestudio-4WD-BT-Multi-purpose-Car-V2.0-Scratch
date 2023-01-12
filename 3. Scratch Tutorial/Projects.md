@@ -26,7 +26,7 @@ S end is in high level, otherwise it will go off.
     
     **Components**
 
-<table>
+<table border="1">
 <tbody>
 <tr class="odd">
 <td>Keyestudio 4.0 Development Board *1</td>
@@ -155,7 +155,7 @@ of PWM can be better reflected. 
 
 **Components**
 
-<table>
+<table border="1">
 <tbody>
 <tr class="odd">
 <td>Keyestudio 4.0 Development Board *1</td>
@@ -256,7 +256,7 @@ LED to a threshold between ON and OFF. 
 
 **Components**
 
-<table>
+<table border="1">
 <tbody>
 <tr class="odd">
 <td>Keyestudio 4.0 Development Board *1</td>
@@ -414,7 +414,7 @@ The corresponding servo angles are shown below:
 
 **Components**
 
-<table>
+<table border="1">
 <tbody>
 <tr class="odd">
 <td>Keyestudio 4.0 Development Board *1</td>
@@ -525,7 +525,7 @@ Trigger Input Pulse width: 10uS
 
 **Components**
 
-<table>
+<table border="1">
 <tbody>
 <tr class="odd">
 <td>Keyestudio 4.0 Development Board *1</td>
@@ -571,7 +571,7 @@ the propagation speed of sound in the air is about 343m/s, and distance
 which is 2 times of distance. Therefore, it needs to be divided by 2,
 the distance measured by ultrasonic wave = (speed \* time)/2
 
-<table>
+<table border="1">
 <tbody>
 <tr class="odd">
 <td><p><strong>Use method and chart of ultrasonic module:</strong></p>
@@ -739,7 +739,7 @@ infrared receiver
 
 **Components**
 
-<table>
+<table border="1">
 <tbody>
 <tr class="odd">
 <td>Keyestudio 4.0 Development Board *1</td>
@@ -935,7 +935,7 @@ Successful application areas of BT24 modules:
 
 Connect the BT module to the development board.
 
-<table>
+<table border="1">
 <tbody>
 <tr class="odd">
 <td>Uno</td>
@@ -962,7 +962,7 @@ Connect the BT module to the development board.
 
 **Components**
 
-<table>
+<table border="1">
 <tbody>
 <tr class="odd">
 <td>Keyestudio 4.0 Development Board *1</td>
@@ -1081,7 +1081,7 @@ corresponding characters will be displayed, as shown below:
 
 ![](/media/a949ea5b358b0905aa048ec4587745ec.png)
 
-<table>
+<table border="1">
 <tbody>
 <tr class="odd">
 <td>Key</td>
@@ -1278,7 +1278,7 @@ PWM drives the robot car. The PWM value is in the range of 0-255. When
 we set the direction to HIGH, the smaller the PWM number, the faster the
 rotation of the motor.
 
-<table>
+<table border="1">
 <tbody>
 <tr class="odd">
 <td></td>
@@ -1330,7 +1330,7 @@ rotation of the motor.
 
 **Components**
 
-<table>
+<table border="1">
 <tbody>
 <tr class="odd">
 <td>Keyestudio 4.0 Development Board *1</td>
@@ -1456,7 +1456,7 @@ In our sample program, select the way to **add 1 to the address
 automatically**, the binary value is 0100 0000 and the corresponding
 hexadecimal value is 0x40
 
-<table>
+<table border="1">
 <tbody>
 <tr class="odd">
 <td><img src="https://raw.githubusercontent.com/keyestudio/KS0559-KS0559F-Keyestudio-4WD-BT-Multi-purpose-Car-V2.0-Scratch/master/media/7e326d7edc877ea2509cbf8649f82d99.png" style="width:5.60972in;height:1.94306in" /></td>
@@ -1470,7 +1470,7 @@ below.
 The first 00H is selected in our sample program, and the binary number
 1100 0000 corresponds to the hexadecimal 0xc0.
 
-<table>
+<table border="1">
 <tbody>
 <tr class="odd">
 <td><img src="https://raw.githubusercontent.com/keyestudio/KS0559-KS0559F-Keyestudio-4WD-BT-Multi-purpose-Car-V2.0-Scratch/master/media/e6da87c9f6056f849c973edec5456f3e.png" style="width:4.53056in;height:3.70069in" /></td>
@@ -1493,7 +1493,7 @@ as shown in the figure below
 In the example, the pulse width is 4/16, and the hexadecimal
 corresponding to 1000 1010 is 0x8A
 
-<table>
+<table border="1">
 <tbody>
 <tr class="odd">
 <td><img src="https://raw.githubusercontent.com/keyestudio/KS0559-KS0559F-Keyestudio-4WD-BT-Multi-purpose-Car-V2.0-Scratch/master/media/ad238f413988f77bcf074a5642a5061d.png" style="width:6.6in;height:2.95556in" /></td>
@@ -1525,7 +1525,7 @@ the hexadecimal data we need will be generated.
 
 **Components**
 
-<table>
+<table border="1">
 <tbody>
 <tr class="odd">
 <td>Keyestudio 4.0 Development Board *1</td>
@@ -1605,7 +1605,7 @@ We use the modulus tool we just learned, http://dotmatrixtool.com/\#, to
 make the dot matrix display the start pattern, going forward, and stop
 and then clear the pattern. The time interval is 2000 ms.
 
-<table>
+<table border="1">
 <tbody>
 <tr class="odd">
 <td><img src="https://raw.githubusercontent.com/keyestudio/KS0559-KS0559F-Keyestudio-4WD-BT-Multi-purpose-Car-V2.0-Scratch/master/media/0fd4831db288e04e75828346ea66a3f5.png" style="width:1.33819in;height:0.75278in" /></td>
@@ -1652,7 +1652,7 @@ Complete Test Code
 After uploading test code, the facial expression board shows these
 patterns orderly and repeats this sequence.
 
-<table>
+<table border="1">
 <tbody>
 <tr class="odd">
 <td><img src="https://raw.githubusercontent.com/keyestudio/KS0559-KS0559F-Keyestudio-4WD-BT-Multi-purpose-Car-V2.0-Scratch/master/media/95bb011957896b12285fc6763137bb9a.png" style="width:2.54167in;height:1.86944in" /></td>
@@ -1680,7 +1680,7 @@ that lock the smart car in a circle drawn in black line.
 The specific logic of the restricting 4WD smart car is shown in the
 table.
 
-<table>
+<table border="1">
 <tbody>
 <tr class="odd">
 <td>Detection</td>
@@ -1784,7 +1784,7 @@ in a way that control the smart car to walk along the black line. 
 
 **Flow Chart**
 
-<table>
+<table border="1">
 <tbody>
 <tr class="odd">
 <td><strong>Detection</strong></td>
@@ -1914,7 +1914,7 @@ show a smile facial pattern.
 
 **Flow Chart**
 
-<table>
+<table border="1">
 <tbody>
 <tr class="odd">
 <td>Detection</td>
@@ -2061,7 +2061,7 @@ corresponding status pattern.**
 **The specific logic of ultrasonic obstacle avoidance smart car is shown
 below:**
 
-<table>
+<table border="1">
 <tbody>
 <tr class="odd">
 <td>Detection</td>
@@ -2261,7 +2261,7 @@ the button on the IR remote control to drive the car to move.
 
 **The specific logic of IR remote control smart car is shown below:**
 
-<table>
+<table border="1">
 <tbody>
 <tr class="odd">
 <td><strong>Initial setup</strong></td>
@@ -2416,7 +2416,7 @@ the mobile APP to control the smart car via the Bluetooth. 
 
 **2.APP Control Button**
 
-<table>
+<table border="1">
 <tbody>
 <tr class="odd">
 <td>Key</td>
