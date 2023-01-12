@@ -1,6 +1,6 @@
-# Product Installation
+# 7.Product Installation
 
-<table>
+<table border="1">
 <tbody>
 <tr class="odd">
 <td><h1><strong>Part 1</strong></h1></td>
