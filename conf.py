@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'keyestudio WiKi'
+project = 'KS0559(KS0559F）Keyestudio 4WD BT Multi-purpose Car V2.0 Scratch'
 copyright = 'keyestudio , WiKi'
 author = 'keyestudio WiKi'
 
