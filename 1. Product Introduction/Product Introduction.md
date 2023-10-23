@@ -1,51 +1,30 @@
-# 1.Product Introduction
+# 1. Product Introduction
 
 **About keyestudio**
 
-Keyestudio is the best-selling brand of KEYES Corporation. Our products
-include Arduino development boards, expansion boards, sensors and
-modules, Raspberry Pi, micro:bit expansion boards as well as smart cars,
-which are committed to learning about Arduino, Raspberry Pi as well as
-micro:bit for customers of any level. 
+Keyestudio is the best-selling brand of KEYES Corporation. Our products include Arduino development boards, expansion boards, sensors and modules, Raspberry Pi, micro:bit expansion boards as well as smart cars, which are committed to learning about Arduino, Raspberry Pi as well as micro:bit for customers of any level. 
 
-Notably, all of our products are in line with international quality
-standards and are greatly appreciated in a broad menu of different
-markets across the world. 
+Notably, all of our products are in line with international quality standards and are greatly appreciated in a broad menu of different markets across the world. 
 
-Welcome to check out more contents from our official website:
-
-[**http://www.keyestudio.com**](http://www.keyestudio.com)
+Welcome to check out more contents from our official website:[**http://www.keyestudio.com**](http://www.keyestudio.com)
 
 **References and After-sales Service**
 
-1.  Download Profile：**https://fs.keyestudio.com/KS0559
+1.  Download Profile：https://fs.keyestudio.com/KS0559
 
-2.  If you find any parts missing or encounter any troubles, please feel
-    free to contact us:
-    **[service@keyestudio.com](http://m.138.gz.cn/webadmin/~CAmsnCrrNXhTAySKCerrIfWjjZuuWVfI/~/usr/mod_edituser.jsp?;uid=service@keyestudio.com;;clearCache=).**
+2.  If you find any parts missing or encounter any troubles, please feel free to contact us:**[service@keyestudio.com](http://m.138.gz.cn/webadmin/~CAmsnCrrNXhTAySKCerrIfWjjZuuWVfI/~/usr/mod_edituser.jsp?;uid=service@keyestudio.com;;clearCache=).**
+    
+3.  We will update projects and products continuously according to your sincere advice.
 
-3.  We will update projects and products continuously according to your
-    sincere advice.
+**Warning**
 
-Warning
+1.  This product contains tiny parts(screws, copper pillars). Therefore, keep it out of reach of children under 8 please.
+    
+2.  This product consists of conductive parts (control board and electronic module). Please operate according to the requirements of tutorial. Otherwise, improper operation may cause parts to overheat and be damaged. Do not touch or immediately disconnect the circuit power.
 
-1.  This product contains tiny parts(screws, copper pillars). Therefore,
-    keep it out of reach of children under 8 please.
+**Copyright**
 
-2.  This product consists of conductive parts (control board and
-    electronic module). Please operate according to the requirements of
-    tutorial. Otherwise, improper operation may cause parts to overheat
-    and be damaged. Do not touch or immediately disconnect the circuit
-    power.
-
-Copyright
-
-The keyestudio trademark and logo are the copyright of KEYES DIY ROBOT
-co.,LTD. All products under keyestudio brand can’t be copied, sold and
-resold by anyone or any companies without authorization . If you’re
-interested in our products, please contact with our sales
-representatives:
-[**fennie@keyestudio.com**](http://m.138.gz.cn/webadmin/~CAmsnCrrNXhTAySKCerrIfWjjZuuWVfI/~/usr/mod_edituser.jsp?;uid=fennie@keyestudio.com;;clearCache=)
+The keyestudio trademark and logo are the copyright of KEYES DIY ROBOT co.,LTD. All products under keyestudio brand can’t be copied, sold and resold by anyone or any companies without authorization . If you’re interested in our products, please contact with our sales representatives:[**fennie@keyestudio.com**](http://m.138.gz.cn/webadmin/~CAmsnCrrNXhTAySKCerrIfWjjZuuWVfI/~/usr/mod_edituser.jsp?;uid=fennie@keyestudio.com;;clearCache=).
 
 **4WD BT Multi-purpose Car V2.0 Kit**
 
@@ -53,42 +32,21 @@ representatives:
 
 ## 1. Introduction
 
-The newly upgraded 4WD Multi-purpose car is one of the most popular
-Arduino sets. It not only has a beautiful appearance but also powerful
-functions. In addition to the usual functions of line tracking, obstacle
-avoidance and remote control, it also uses facial expressions to make
-lovely expressions.  Furthermore, you empower to expand your own
-projects, or add other sensors to complete your exploration. 
+The newly upgraded 4WD Multi-purpose car is one of the most popular Arduino sets. It not only has a beautiful appearance but also powerful functions. In addition to the usual functions of line tracking, obstacle avoidance and remote control, it also uses facial expressions to make lovely expressions.  Furthermore, you empower to expand your own projects, or add other sensors to complete your exploration. 
 
-Most of the components are connected via screws and copper pillars,
-thereby you can build your own robot through a few simple assembly
-steps.
+Most of the components are connected via screws and copper pillars, thereby you can build your own robot through a few simple assembly steps.
 
-What’s more, the basic knowledge such as line tracking, obstacle
-avoidance sensors, ultrasonic ranging, Bluetooth communication, motor
-drivers as well as IR remote controls are accessible for us to learn.   
+What’s more, the basic knowledge such as line tracking, obstacle avoidance sensors, ultrasonic ranging, Bluetooth communication, motor drivers as well as IR remote controls are accessible for us to learn.   
 
-This product boasts 17 learning projects, from simple to complex, which will guide you to
-make an Arduino robot. 
+This product boasts 17 learning projects, from simple to complex, which will guide you to make an Arduino robot. 
 
 ## 2. Features
 
-1.  Multi-purpose function: Obstacle avoidance, following, IR remote
-    control, Bluetooth control, confined with a circle, gravity control
-    as well as facial emoticons display.
-
+1.  Multi-purpose function: Obstacle avoidance, following, IR remote control, Bluetooth control, confined with a circle, gravity control as well as facial emoticons display.
 2.  Simple assembly: No soldering circuit required, simple assembly.
-
-3.  [Sturdy construction](javascript:;): 4WD construction, 4 premium
-    motors and wheels.
-    
-    4\. High extension: It can expand other sensors and modules via a
-    motor driver expansion board
-    
-    5\. Multiple controls: IR remote control, App control(iOS and
-    Android system)
-
-<!-- end list -->
+3.  [Sturdy construction](javascript:;): 4WD construction, 4 premium motors and wheels.
+4.  High extension: It can expand other sensors and modules via a motor driver expansion board.
+5.  Multiple controls: IR remote control, App control(iOS and Android system)
 
 6.  Basic programming：C language code of Arduino IDE.
 
@@ -388,6 +346,5 @@ Bluetooth control: support Android and iOS system
 </tr>
 </tbody>
 </table>
-
 
 

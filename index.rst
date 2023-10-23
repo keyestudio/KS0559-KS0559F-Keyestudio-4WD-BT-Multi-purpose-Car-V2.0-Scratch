@@ -1,6 +1,6 @@
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 3
    :caption: KS0559(KS0559F）Keyestudio 4WD BT Multi-purpose Car V2.0 Scratch
 
    1. Product Introduction/Product Introduction.md

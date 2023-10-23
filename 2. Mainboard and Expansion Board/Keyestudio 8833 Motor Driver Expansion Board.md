@@ -2,14 +2,9 @@
 
 ## 1. Description
 
-The 8833 board adopts the 8833 motor driver chip driven by two-channel H
-bridges , and the maximum driving current of a single channel is up to
-1.5A, and the terminal of PH2.0 is used.  
+The 8833 board adopts the 8833 motor driver chip driven by two-channel H bridges , and the maximum driving current of a single channel is up to 1.5A, and the terminal of PH2.0 is used.  
 
-The IR receiver module is also integrated on the board. Furthermore,
-there are many PH2.0 expansion interfaces on the board such as
-ultrasonic interface, analog interface, three-channel tracking interface
-as well as pin interfaces with Bluetooth and motor driver. 
+The IR receiver module is also integrated on the board. Furthermore, there are many PH2.0 expansion interfaces on the board such as ultrasonic interface, analog interface, three-channel tracking interface as well as pin interfaces with Bluetooth and motor driver. 
 
 ## 2. Specification
 

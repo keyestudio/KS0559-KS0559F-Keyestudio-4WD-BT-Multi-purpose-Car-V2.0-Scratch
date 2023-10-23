@@ -1,16 +1,14 @@
 # 3.Keyestudio V4.0 Development Board
 
-You need to know that keyestudio V4.0 development board is the core of
-this 4WD BT Multi-purpose Car V2.0.
+You need to know that keyestudio V4.0 development board is the core of this 4WD BT Multi-purpose Car V2.0.
 
 ![](/media/4a9093e1b4ad333c296aa18441ca3c0e.png)
 
-Keyestudio V4.0 development board is an Arduino Uno -compatible board, which is based on ATmega328P MCU, and with a CP2102 chip as a UART-to-USB converter.  
+Keyestudio V4.0 development board is an Arduino Uno compatible board, which is based on ATmega328P MCU, and with a CP2102 chip as a UART-to-USB converter.  
 
 ![](/media/90e3efbcae2f75e4c40a6bb9c616365e.jpeg)
 
-It has 14 digital input/output pins (of which 6 can be used as PWM outputs), 6 analog inputs, a 16 MHz quartz crystal, a USB connection, a power
-jack, 2 ICSP headers and a reset button.
+It has 14 digital input/output pins (of which 6 can be used as PWM outputs), 6 analog inputs, a 16 MHz quartz crystal, a USB connection, a power jack, 2 ICSP headers and a reset button.
 
 ![](/media/95bcb6f3d82a26fd7286459f2e5dd2e6.jpeg)
 
